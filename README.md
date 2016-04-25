@@ -1,1 +1,1 @@
-# openshift-playbooks
+# Fake openshift-playbooks
